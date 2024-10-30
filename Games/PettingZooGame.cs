@@ -3,11 +3,11 @@
     public void StartPettingZooGame()
     {
         string[] pettingZoo =
-    {
-    "alpacas", "capybaras", "chickens", "ducks", "emus", "geese",
-    "goats", "iguanas", "kangaroos", "lemurs", "llamas", "macaws",
-    "ostriches", "pigs", "ponies", "rabbits", "sheep", "tortoises",
-};
+        {
+        "alpacas", "capybaras", "chickens", "ducks", "emus", "geese",
+        "goats", "iguanas", "kangaroos", "lemurs", "llamas", "macaws",
+        "ostriches", "pigs", "ponies", "rabbits", "sheep", "tortoises",
+        };
 
         string[,] group = AssignGroup();
         PlanSchoolVisit("School A");

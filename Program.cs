@@ -18,7 +18,19 @@ using Learning.ExceptionLearning;
 //debugPart9.Learn();
 
 //30.10.2024
-ExceptionPart4 exceptionPart4 = new ExceptionPart4();
+//ExceptionPart4 exceptionPart4 = new ExceptionPart4();
 //exceptionPart4.Learn();
 //exceptionPart4.Learn2();
-exceptionPart4.Learn3();
+//exceptionPart4.Learn3();
+
+//ThrowExceptionPart2 throwExceptionPart2 = new ThrowExceptionPart2();
+//throwExceptionPart2.Learn();
+
+//ThrowExceptionPart3 throwExceptionPart3 = new ThrowExceptionPart3();
+//throwExceptionPart3.Learn();
+
+//ThrowExceptionPart4 throwExceptionPart4 = new ThrowExceptionPart4();
+//throwExceptionPart4.Learn();
+
+DebugHandleExceptionProject debugHandleExceptionProject = new DebugHandleExceptionProject();
+debugHandleExceptionProject.Learn();
